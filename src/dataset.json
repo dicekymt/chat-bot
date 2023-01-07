@@ -47,34 +47,32 @@
     },
     "consultant": {
         "answers": [
-            {"content": "TwitterでDMを送る", "nextId": "https://www.youtube.com/channel/UC-bOAxx-YOsviSmqh8COR0w"},
+            {"content": "TwitterでDMを送る", "nextId": "https://twitter.com/DiceK_Design"},
             {"content": "海外での生活について知りたい", "nextId": "life"},
             {"content": "最初の質問に戻る", "nextId": "init"}
         ],
-        "question": "トラハックは普段からYouTubeでキャリアについて発信しています。また、僕が運営するエンジニア向け学習コミュニティ内でも相談に乗っていますよ。"
+        "question": "motgramはUI/UXデザイナー兼フロントエンドエンジニアとしてフリーランスで活動しています。\nITフリーランスとしてのキャリアに興味がある方はぜひご連絡ください。"
     },
     "life": {
         "answers": [
             {"content": "どんな生活をしているの？", "nextId": "life_activity"},
-            {"content": "コミュニティに参加したい", "nextId": "https://torahack.web.app/community/"},
             {"content": "最初の質問に戻る", "nextId": "init"}
         ],
-        "question": "2020年3月から学習コミュニティを始めました！🎉Webエンジニアへの転職を目指す人向けに、プログラミングを教えたりキャリアの相談に乗っています。"
+        "question": "中国に10年間ほど住んでいます。海外での生活に興味はありますか？？"
     },
-    "community_activity": {
+    "life_activity": {
         "answers": [
-            {"content": "さらに詳細を知りたい", "nextId": "https://youtu.be/tIzE7hUDbBM"},
-            {"content": "コミュニティに参加したい", "nextId": "https://torahack.web.app/community/"},
+            {"content": "さらに詳細を知りたい", "nextId": "https://twitter.com/DiceK_Design"},
             {"content": "最初の質問に戻る", "nextId": "init"}
         ],
-        "question": "フロントエンド向けの教材の提供、キャリアや勉強法に関するメルマガの配信、週1のオンライン作業会などを開催しています！\n詳細はYouTube動画で紹介しています。"
+        "question": "??フロントエンド向けの教材の提供、キャリアや勉強法に関するメルマガの配信、週1のオンライン作業会などを開催しています！\n詳細はYouTube動画で紹介しています。"
     },
     "friendship": {
         "answers": [
-            {"content": "DMする", "nextId": "https://twitter.com/torahack_"},
+            {"content": "DMする", "nextId": "https://twitter.com/DiceK_Design"},
             {"content": "最初の質問に戻る", "nextId": "init"}
         ],
-        "question": "まずは一緒にランチでもいかがですか？DMしてください😘"
+        "question": "まずはお話ししましょう。DMしてください😘"
     }
 }
 
