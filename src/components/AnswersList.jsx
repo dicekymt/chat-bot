@@ -1,4 +1,5 @@
-import {Answer} from './index'
+import React from 'react';
+import {Answer} from './index';
 
 const AnswersList = (props) => {
   return(
