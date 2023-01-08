@@ -2,8 +2,8 @@ import * as React from 'react';
 import ListItem from '@mui/material/ListItem';
 import ListItemAvatar from '@mui/material/ListItemAvatar';
 import Avatar from '@mui/material/Avatar';
-import NoProfile from '../assets/img/profile_logo_wh.png'
-import Motogram from '../assets/img/profile_logo_yellow.png'
+import NoProfile from '../assets/img/profile_icon_q.png'
+import Motogram from '../assets/img/profile_icon_a.png'
 
 const Chat = (props) => {
   const isQuestion = (props.type === 'question');
